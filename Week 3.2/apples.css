@@ -1,0 +1,39 @@
+body{
+/*background-color: red;*/
+}
+
+h1{
+	position: fixed;
+	background-color: #ccffff;
+}
+
+div{
+	width: 200px;
+}
+
+.indent{
+	/*position: relative; */
+	/* relative to the previous element*/
+	position: relative;
+	top: -50px;
+	left: 1500px;
+	background-color: red;
+	
+}
+h3{
+	/*comment out and see how the 3 lines below affect the html element*/
+	position: relative; 
+	/* position: absolute; */ 
+	/* position: fixed; */
+	top: 50px;
+	left: 200px;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}

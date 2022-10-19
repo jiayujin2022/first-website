@@ -1,0 +1,37 @@
+div{
+	width:100px;
+	height: 100px;
+	padding: 10px;
+	/* need absolute for z-index to work */
+	position: absolute; 
+}
+
+
+.pink{
+	background-color: #de16cd; /*pink*/
+	top: 70px;
+	left: 70px;
+	z-index: 0; /* at the furthest back as lowest number*/
+}
+.red{
+	background-color:#ff3333;
+	top: 100px;
+	left: 100px;
+	z-index: 1;
+}
+.green{
+	background-color: #10de62;	/*green*/
+	top: 140px;
+	left: 140px;
+	z-index: 3; /* at the front as highest number */
+}
+.blue{
+	background-color: #118ab2; /*blue*/
+	top: 170px;
+	left: 170px;
+	z-index: 4;
+
+}
+
+
+

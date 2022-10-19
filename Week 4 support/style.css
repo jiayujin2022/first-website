@@ -1,0 +1,31 @@
+.header{
+	width:90%;
+	background-color:red;
+	height:100px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-bottom:10px;
+	
+}
+
+.leftside{
+	height:300px;
+	width:300px;
+	float:left;
+	background-color:red;
+	
+}
+
+.rightside{
+	height:300px;
+	width:300px;
+	float:right;
+	background-color:red;
+	padding:20px
+}
+
+.LeftImg{
+	height:200px;
+	width:200px;
+}

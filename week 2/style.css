@@ -1,0 +1,17 @@
+body{
+	background-color:olive;
+}
+
+
+.redP{
+	background-color:red;
+}
+.yellowP{
+	/*green*/
+	background-color:#79ff4d;
+	
+}
+#textRed{
+	/*red*/
+	color:#ff4d4d;
+}

@@ -1,0 +1,14 @@
+body{
+	color:red;
+	}
+
+div{
+	height:200px;
+	width:200px;
+	background-color:teal;
+	float:right}
+a{
+	display:block;
+	}
+	
+ background-image: url("paper.gif");

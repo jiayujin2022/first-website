@@ -1,0 +1,9 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color:red;
+	background-image:url("background.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:cover;
+}
